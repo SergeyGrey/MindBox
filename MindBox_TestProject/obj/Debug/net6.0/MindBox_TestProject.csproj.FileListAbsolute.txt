@@ -1,0 +1,12 @@
+C:\Users\shw\source\repos\MindBox_TestProject\bin\Debug\net6.0\MindBox_TestProject.deps.json
+C:\Users\shw\source\repos\MindBox_TestProject\bin\Debug\net6.0\MindBox_TestProject.dll
+C:\Users\shw\source\repos\MindBox_TestProject\bin\Debug\net6.0\MindBox_TestProject.pdb
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\MindBox_TestProject.csproj.AssemblyReference.cache
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\MindBox_TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\MindBox_TestProject.AssemblyInfoInputs.cache
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\MindBox_TestProject.AssemblyInfo.cs
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\MindBox_TestProject.csproj.CoreCompileInputs.cache
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\MindBox_TestProject.dll
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\refint\MindBox_TestProject.dll
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\MindBox_TestProject.pdb
+C:\Users\shw\source\repos\MindBox_TestProject\obj\Debug\net6.0\ref\MindBox_TestProject.dll

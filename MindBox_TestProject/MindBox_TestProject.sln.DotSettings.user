@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\shw\AppData\Local\Temp\JetBrains\ReSharperPlatformVs17\vAny_509db24a\CoverageData\_MindBox_TestProject.340355217\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba998a1f_002Dfd57_002D4030_002Dbd8d_002D274220560bd1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TriangleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9DA70F38-64F9-4EF2-B24E-94FB50CAB168::net6.0::Tests.TriangleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9DA70F38-64F9-4EF2-B24E-94FB50CAB168::net6.0::Tests.CircleTests.TestTriangleNormalArguments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9DA70F38-64F9-4EF2-B24E-94FB50CAB168::net6.0::Tests.CircleTests.TestCircleArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9DA70F38-64F9-4EF2-B24E-94FB50CAB168::net6.0::Tests.FigureTests.TestPolymorphism&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
